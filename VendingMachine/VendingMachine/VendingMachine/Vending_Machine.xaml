@@ -1,0 +1,119 @@
+﻿<Window x:Class="VendingMachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VendingMachine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.Row="0" DataContext="">
+            <ListView Grid.Column="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Name="lviewdrinks" SelectionChanged="lViewDrinks_SelectionChanged">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center"></WrapPanel>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="10" Orientation="Vertical">
+                            <Image Width="125" Height="125" Stretch="Uniform" Margin="5" HorizontalAlignment="Center">
+                                <Image.Source>
+                                    <Binding Path="Image">
+                                        
+                                    </Binding>
+                                </Image.Source>
+                            </Image>
+                            <TextBlock Text="{Binding Name}" />
+                            <TextBlock Text="{Binding Cost}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <!--Напитки-->
+            
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="0" Background="LightGray">
+            
+           
+            <Grid.RowDefinitions>
+                <RowDefinition Height="65"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="40"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="2" Grid.Column="2">
+                    <Button Name="butmenu" Click="butmenu_Click"  Margin="10,20,10,20" Background="#FF3C3C3C" Foreground="White">
+                        !
+                    </Button>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="120"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="50"/>
+                            <ColumnDefinition Width="50"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Name="m1" Click="m1_Click" Grid.Column="1" Grid.Row="1" Margin="4" Background="#FF3C3C3C" BorderBrush="#FF3C3C3C" Foreground="White">1</Button>
+                        <Button Name="m2" Click="m2_Click" Grid.Column="2" Grid.Row="1" Margin="4" Background="#FF3C3C3C" BorderBrush="#FF3C3C3C" Foreground="White">2</Button>
+                        <Button x:Name="m5" Click="m5_Click" Grid.Column="1" Grid.Row="2" Margin="4" Background="#FF3C3C3C" BorderBrush="#FF3C3C3C" Foreground="White">5</Button>
+                        <Button Name="m10" Click="m10_Click" Grid.Column="2" Grid.Row="2" Margin="4" Background="#FF3C3C3C" BorderBrush="#FF3C3C3C" Foreground="White">10</Button>
+
+                    </Grid>
+                    
+                    <Border Grid.Row="1" BorderBrush="Black" BorderThickness="2" ></Border>
+                    
+                        <Grid Grid.Row="1" Margin="10,10,10,10">
+                        
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        
+                            <TextBlock Grid.Row="0" TextAlignment="Left" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center">1.Внесите деньги</TextBlock>
+                        <TextBlock Grid.Row="1" TextAlignment="Center" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center">2.Выберите напиток</TextBlock>
+                        <TextBlock Grid.Row="2" TextAlignment="Center" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center">3.Получите сдачу</TextBlock>
+                    </Grid>
+                    
+                </Grid>
+                <Button Name="b1" Click="b1_Click" Grid.Row="3" Grid.Column="1" Margin="40,10,40,10" Background="#FF3C3C3C" BorderBrush="#FF3C3C3C" Foreground="White">Сдача</Button>
+            </Grid>
+            
+            <!--панель-->
+
+
+
+            <Grid Grid.Row="0" Margin="10" Background="White">
+                <TextBlock Name="tb1"  VerticalAlignment="Center" HorizontalAlignment="Center">0 руб.</TextBlock>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</Window>

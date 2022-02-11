@@ -1,0 +1,93 @@
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.g.cs
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.g.cs
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.baml
+C:\Users\Kypama\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.baml
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.g.cs
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.g.cs
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.baml
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.baml
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.g.cs
+C:\Users\Kypama\Desktop\Работы за 2022\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.baml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.g.cs
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.g.cs
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.g.cs
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.baml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.baml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.baml
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.Cache
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\3-16-2\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.g.cs
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.g.cs
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.g.cs
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Security.baml
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Vending_Machine.baml
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\Sis_Panel.baml
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\3-5_3\Desktop\WPF\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
